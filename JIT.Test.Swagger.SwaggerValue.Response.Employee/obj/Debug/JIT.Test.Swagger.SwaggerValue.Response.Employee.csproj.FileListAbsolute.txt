@@ -1,0 +1,5 @@
+D:\code\VS2015\JIT.Swagger\JIT.Test.Swagger.SwaggerValue.Response.Employee\bin\Debug\JIT.Test.Swagger.SwaggerValue.Response.Employee.dll
+D:\code\VS2015\JIT.Swagger\JIT.Test.Swagger.SwaggerValue.Response.Employee\bin\Debug\JIT.Test.Swagger.SwaggerValue.Response.Employee.pdb
+D:\code\VS2015\JIT.Swagger\JIT.Test.Swagger.SwaggerValue.Response.Employee\obj\Debug\JIT.Test.Swagger.SwaggerValue.Response.Employee.csprojResolveAssemblyReference.cache
+D:\code\VS2015\JIT.Swagger\JIT.Test.Swagger.SwaggerValue.Response.Employee\obj\Debug\JIT.Test.Swagger.SwaggerValue.Response.Employee.dll
+D:\code\VS2015\JIT.Swagger\JIT.Test.Swagger.SwaggerValue.Response.Employee\obj\Debug\JIT.Test.Swagger.SwaggerValue.Response.Employee.pdb

@@ -1,2 +1,4 @@
-﻿body {
+﻿.operation-params .snippet_json {
+    overflow: scroll;
+    width: 425px;
 }

@@ -196,7 +196,7 @@ namespace WebApi
                         // The file must be included in your project as an "Embedded Resource", and then the resource's
                         // "Logical Name" is passed to the method as shown below.
                         //
-                        //c.InjectStylesheet(containingAssembly, "Swashbuckle.Dummy.SwaggerExtensions.testStyles1.css");
+                        c.InjectStylesheet(thisAssembly, "WebApi.StyleSheet1.css");
 
                         // Use the "InjectJavaScript" option to invoke one or more custom JavaScripts after the swagger-ui
                         // has loaded. The file must be included in your project as an "Embedded Resource", and then the resource's
@@ -220,7 +220,7 @@ namespace WebApi
                         // It can be set to "None" (default), "List" (shows operations for each resource),
                         // or "Full" (fully expanded: shows operations and their details).
                         //
-                        c.DocExpansion(DocExpansion.List);
+                        c.DocExpansion(DocExpansion.Full);
 
                         // Specify which HTTP operations will have the 'Try it out!' option. An empty paramter list disables
                         // it for all operations.
